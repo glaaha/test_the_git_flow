@@ -1,6 +1,6 @@
 # My first Code
 
-x <- rnorm(1000; 20; 100)
+x <- rnorm(1000)
 plot(x)
 
 # Here is some othe code
